@@ -12,6 +12,9 @@
 /* Basic                                                                         */
 /*********************************************************************************/
 
+    frame{vertical-align: center}
+
+
 	body
 	{
 		background-image:			url('images/overlay.png'),		url('images/bg.jpg');
